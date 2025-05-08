@@ -18,6 +18,6 @@ public class Main {
   public static void main(String[] args) {
     driver.get("https://github.com/madhhuurrii/");
     driver.manage().window().maximize();
-    //driver.quit();
+    // driver.quit();
   }
 }

@@ -1,2 +1,4 @@
 
-QA Automation
+# QA Automation
+
+ - [X] Login/Registration Page:

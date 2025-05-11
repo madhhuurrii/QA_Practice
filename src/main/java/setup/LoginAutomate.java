@@ -2,11 +2,9 @@ package setup;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import static io.github.bonigarcia.wdm.WebDriverManager.chromedriver;
 
@@ -30,6 +28,6 @@ public class LoginAutomate {
     driver.findElement(By.cssSelector("button[type=\"submit\"]")).click();
     System.out.println(driver.getCurrentUrl());
     
-    // driver.quit();
+    driver.quit();
   }
 }

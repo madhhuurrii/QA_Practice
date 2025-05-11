@@ -20,9 +20,9 @@
 - [ ] Get Window Handles
 
 ## 3. Conditional Methods:
-- [ ] isDisplayed
-- [ ] isSelected
-- [ ] isEnabled
+- [X] isDisplayed
+- [X] isSelected
+- [X] isEnabled
 
 ## 4. Browser Methods:
 - [ ] Close
@@ -31,7 +31,13 @@
 ## 5. Wait Commands: 
 - [ ] Implicit Wait
 - [ ] Explicit Wait/Fluent Wait
-- [ ] Synchronization/Thread.sleep
+- [ ] Synchronization/Thread.
+
+## 6. Navigational Commands:
+- [ ] Navigate To
+- [ ] Navigate Back
+- [ ] Navigate Forward
+- [ ] Navigate refresh
 
 ## Automation Script
 - [X] Login Automation

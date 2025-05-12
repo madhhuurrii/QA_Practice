@@ -89,3 +89,4 @@
 
 ## Automation Script
 - [X] Login Automation
+- [ ] Ticket Booking Automation(Blaze Demo)

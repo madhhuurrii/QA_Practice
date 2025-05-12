@@ -39,10 +39,10 @@
 - [ ] Synchronization/Thread.
 
 ## 5. Navigational Commands:
-- [ ] Navigate To
-- [ ] Navigate Back
-- [ ] Navigate Forward
-- [ ] Navigate refresh
+- [X] Navigate To
+- [X] Navigate Back
+- [X] Navigate Forward
+- [X] Navigate refresh
 </details>
 
 ## Automation Script

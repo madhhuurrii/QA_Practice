@@ -52,10 +52,10 @@
 <details>
 <summary>Alerts/ Pop-up</summary>
 
-- [ ] Alerts Declaration
-- [ ] Normal Alert (Accept)
-- [ ] Confirmational Alert (Accept,Dismiss)
-- [ ] Prompt Alert (Input box)
+- [X] Alerts Declaration
+- [X] Normal Alert (Accept)
+- [X] Confirmational Alert (Accept,Dismiss)
+- [X] Prompt Alert (Input box)
 </details>
 
 <details>
@@ -85,6 +85,30 @@
 - [ ] Right Click/Context Click
 - [ ] Double Click
 - [ ] Drag & Drop
+</details>
+
+<details>
+<summary>Keyboard Actions</summary>
+
+- [ ] Control
+- [ ] Tab
+</details>
+
+<details>
+<summary>JavaScript Executor</summary>
+
+- [ ] JavaScript Executor
+- [ ] Scroll the page till element is visible
+- [ ] Scroll the page till end of the page
+- [ ] Scroll up to initial position
+</details>
+
+<details>
+<summary>Capturing Screenshots</summary>
+
+- [ ] Full Screenshots
+- [ ] Screenshot of specific section
+- [ ] Screenshot of Web Element
 </details>
 
 ## Automation Script

@@ -46,10 +46,12 @@
 </details>
 <details>
 <summary>Checkboxes</summary>
+
 - [ ] Checkboxes
 </details>
 <details>
 <summary>Alerts/ Pop-up</summary>
+
 - [ ] Alerts Declaration
 - [ ] Normal Alert (Accept)
 - [ ] Confirmational Alert (Accept,Dismiss)
@@ -58,11 +60,13 @@
 
 <details>
 <summary>Handling Iframe</summary>
+
 - [ ] Iframe Handling
 </details>
 
 <details>
 <summary>Dropdown Box</summary>
+
 - [ ] Select Dropdown
 - [ ] Bootstrap Dropdown
 - [ ] Hidden Dropdown
@@ -70,12 +74,14 @@
 
 <details>
 <summary>Web Tables</summary>
+
 - [ ] Static Web Tables
 - [ ] Dynamic Web Tables
 </details>
 
 <details>
 <summary>Mouse Actions</summary>
+
 - [ ] Right Click/Context Click
 - [ ] Double Click
 - [ ] Drag & Drop

@@ -47,7 +47,7 @@
 <details>
 <summary>Checkboxes</summary>
 
-- [ ] Checkboxes
+- [X] Checkboxes
 </details>
 <details>
 <summary>Alerts/ Pop-up</summary>

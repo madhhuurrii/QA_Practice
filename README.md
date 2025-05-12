@@ -1,17 +1,22 @@
 
 # QA Automation
+<details>
+<summary>Locators</summary>
 
-## 1. Locators:
+##  Locators:
  - [X] ID locator
  - [X] Name Locator
  - [X] PartialText locator
  - [X] LinkText locator
  - [X] className locator
  - [X] tagName locator
- - [ ] cssSelector locator
- - [ ] xpath locator
+ - [ ] cssSelector locator(Dynamic Locators)
+ - [ ] xpath locator(Dynamic Locators)
+</details>
+<details>
+<summary> Selenium Methods </summary>
 
-## 2. Get Methods:
+## 1. Get Methods:
 - [X] Get Url
 - [X] Get Title
 - [X] Get Current Url
@@ -19,25 +24,26 @@
 - [X] Get Window Handle
 - [ ] Get Window Handles
 
-## 3. Conditional Methods:
+## 2. Conditional Methods:
 - [X] isDisplayed
 - [X] isSelected
 - [X] isEnabled
 
-## 4. Browser Methods:
-- [ ] Close
-- [ ] Quit
+## 3. Browser Methods:
+- [X] Close
+- [X] Quit
 
-## 5. Wait Commands: 
+## 4. Wait Commands: 
 - [ ] Implicit Wait
 - [ ] Explicit Wait/Fluent Wait
 - [ ] Synchronization/Thread.
 
-## 6. Navigational Commands:
+## 5. Navigational Commands:
 - [ ] Navigate To
 - [ ] Navigate Back
 - [ ] Navigate Forward
 - [ ] Navigate refresh
+</details>
 
 ## Automation Script
 - [X] Login Automation

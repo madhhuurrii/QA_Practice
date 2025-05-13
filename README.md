@@ -67,8 +67,8 @@
 <details>
 <summary>Dropdown Box</summary>
 
-- [ ] Select Dropdown
-- [ ] Bootstrap Dropdown
+- [X] Select Dropdown
+- [X] Bootstrap Dropdown
 - [ ] Hidden Dropdown
 </details>
 

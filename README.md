@@ -82,8 +82,9 @@
 <details>
 <summary>Mouse Actions</summary>
 
-- [ ] Right Click/Context Click
-- [ ] Double Click
+- [X] Mouse Hover
+- [X] Right Click/Context Click
+- [X] Double Click
 - [ ] Drag & Drop
 </details>
 

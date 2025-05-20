@@ -77,6 +77,7 @@
 
 - [ ] Static Web Tables
 - [ ] Dynamic Web Tables
+- [ ] Tables with Pagination
 </details>
 
 <details>
@@ -85,7 +86,7 @@
 - [X] Mouse Hover
 - [X] Right Click/Context Click
 - [X] Double Click
-- [ ] Drag & Drop
+- [X] Drag & Drop
 </details>
 
 <details>

@@ -51,7 +51,9 @@ public class MouseActions {
       System.out.println("Context Click didn't worked!");
       System.out.println(p+" "+q);
     }
-
-    // driver.quit();
+     WebElement d5 = driver.findElement(By.xpath("//div[@id='draggable']"));
+     WebElement d6 = driver.findElement(By.xpath("//div[@id='droppable']"));
+      act.dragAndDrop(d5, d6).build().perform();
+    driver.quit();
   }
 }

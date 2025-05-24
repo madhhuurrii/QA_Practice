@@ -75,7 +75,7 @@
 <details>
 <summary>Web Tables</summary>
 
-- [ ] Static Web Tables
+- [X] Static Web Tables
 - [ ] Dynamic Web Tables
 - [ ] Tables with Pagination
 </details>
@@ -115,4 +115,4 @@
 
 ## Automation Script
 - [X] Login Automation
-- [ ] Ticket Booking Automation(Blaze Demo)
+- [X] Ticket Booking Automation(Blaze Demo)

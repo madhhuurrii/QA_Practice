@@ -13,8 +13,10 @@ public class string_method {
       // replace('e','x') - replaces single/multiple(sequence) of characters in string
       // substring(firstindex, lastindex) - extracts substring from main string
       // toUpperCase(), toLowerCase()
-
-
+      // split() - splits the string into multiple string based on delimeter
       
+
+
+
   }
 }

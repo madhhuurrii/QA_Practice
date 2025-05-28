@@ -12,5 +12,11 @@ public class polymorphism {
     // 3. data type of paramter should be different
     // 4. order of paramter should be different
 
+    // constructor overloading
+    // 1. same as method overloading with no return type
+
+    // Through overloading we can achieve polymorphism
+    // we can overload main method too
+
   }
 }

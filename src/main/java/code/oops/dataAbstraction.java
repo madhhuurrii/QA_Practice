@@ -1,7 +1,39 @@
-package main.java.code.oops;
+package code.oops;
 
-public class dataAbstraction {
+interface Shape{
+  int f=10; // static and final
+
+  void circle(); // abstract method (no-implementation)
+  // methods in interface is public
+
+  default void push(){
+    System.out.println("Hi");
+  }
+  static void append(){
+    System.out.println("Hello");
+  }
   
+}
+
+public class dataAbstraction implements Shape{
+  public void circle(){
+    System.out.println("Circle");
+  }
+
+  public static void main(String[] args) {
+    //Scenario 1
+    dataAbstraction db = new dataAbstraction();
+    db.circle();
+    db.push();
+    Shape.append(); // static can be accessed diretly using interface
+
+   
+    // Scenario 2
+    Shape sh=new dataAbstraction();
+    // can reference but not instantiate
+
+
+  }
 }
 
 /// Abstraction

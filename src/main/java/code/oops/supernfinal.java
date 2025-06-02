@@ -1,4 +1,4 @@
-package main.java.code.oops;
+package code.oops;
 
 class Test{
   final int s=0;

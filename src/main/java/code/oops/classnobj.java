@@ -15,7 +15,8 @@ public class classnobj {
   public static void main(String[] args) {
     // class is collection of attributes and behaviour
     // without class there is no object
-    // object is blueprint of class
+    // object is instance of class
+    // class is blueprint of object
 
 
     // class is collection of variables and method

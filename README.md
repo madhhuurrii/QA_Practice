@@ -92,8 +92,8 @@
 <details>
 <summary>Keyboard Actions</summary>
 
-- [ ] Control
-- [ ] Tab
+- [x] Control
+- [x] Tab
 </details>
 
 <details>

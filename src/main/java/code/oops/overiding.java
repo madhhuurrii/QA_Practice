@@ -2,19 +2,19 @@ package code.oops;
 
 class Animal{
   int s=0;
-  @Override  //It is not mandatory to use @Override.
+   
   void speak(){
     System.out.print("Barking");
   }
 }
 class Cat extends Animal{
-    @Override
+    @Override // It is not mandatory to use @Override.
     void speak(){
-      System.out.print("Meowing");
+      System.out.println("Meowing");
     }
 
     void s1(){
-      System.out.print(super.s);
+      System.out.println(super.s);
     }
 }
 
@@ -23,10 +23,12 @@ public class overiding {
   // Method Overriding deals with implementation of method
   // no change in name or parameters
   // Needs 2 class minium to achieve overriding
+  // Example of RUN-TIME POLYMORPHISM
   public static void main(String[] args) {
     Cat c=new Cat();
     c.speak();
     c.s1();
+    
 
   }
 }

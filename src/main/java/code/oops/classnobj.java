@@ -9,7 +9,7 @@ public class classnobj {
   }
 
   classnobj(int a){
-      x=a;
+      this.x=a;
       System.out.println(x);
   }
   public static void main(String[] args) {

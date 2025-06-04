@@ -19,7 +19,7 @@ public class keywords {
   /// static keyword
   /// static can be applied for variables and method
   /// static method, static variable
-  /// non-static method, no-static variable
+  /// non-static method, non-static variable
   /// 
   /// static allocates a special memory for var/methods 
   /// which is common across all objects

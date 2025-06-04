@@ -1,6 +1,6 @@
 // package code.oops;
 
-// // Multiple uses Interface concept
+// // Multiple Inheritance uses Interface concept
 // interface A{
 //   String s();
 // }

@@ -8,3 +8,12 @@ Corresponding methods acting on variables
 
 
 ![alt text](image.png)
+
+- [ ] POM w/o PageFactory
+- [ ] POM w PageFactory
+- [ ] Test Data Management
+- [ ] Extent Reports
+- [ ] Automating workflow
+- [ ] Paramterization
+- [ ] Selenium Waits
+- [ ] Assertions

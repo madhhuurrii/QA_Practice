@@ -17,3 +17,11 @@ Corresponding methods acting on variables
 - [ ] Paramterization
 - [ ] Selenium Waits
 - [ ] Assertions
+
+
+Step to setup the project:
+1. Create maven project, add name, simple project with no archetype
+2. Update pom.xml with necessary dependency like testng, selenium etc.
+3. Create folder like Reports, Screenshots, TestData, Drivers etc
+4. Create Packages in src/test/java - com.projectname.pages, com.projectname.test,com.projectname.utils
+5. 

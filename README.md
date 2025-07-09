@@ -1,5 +1,7 @@
 
 # QA Automation
+<details>  
+<summary>Selenium Practice</summary>
 <details>
 <summary>Locators</summary>
 
@@ -117,3 +119,38 @@
 - [X] Login Automation
 - [X] Ticket Booking Automation(Blaze Demo)
 - [ ] Sauce Demo 
+
+
+</details>
+
+<details>
+<summary>SDET</summary>
+<details>
+<summary>Programming Languages</summary>
+
+- [ ] Python  
+- [ ] Java 
+</details>
+
+<details>
+<summary>Automation Tools</summary>
+
+- [ ] PyTest  
+- [ ] TestNG
+- [ ] Selenium
+</details>
+<details>
+<summary>API Testing</summary>
+
+- [ ] Postman  
+- [ ] RestAssured
+
+</details>
+<details>
+<summary>CI/CD</summary>
+
+- [ ] Git 
+- [ ] Jenkins
+- [ ] Github Actions
+</details>
+</details>

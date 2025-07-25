@@ -22,10 +22,12 @@ public class encapsulation {
   }
   void getno(){
     System.out.println(s);
+    System.out.println(s1);
   }
   public static void main(String[] args) {
      encapsulation e=new encapsulation();
      e.setno(10);
+     e.sets("Add");
      e.getno();
   }
 }

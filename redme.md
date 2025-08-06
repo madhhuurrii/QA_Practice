@@ -2,6 +2,7 @@
 An Ecommerce Website Automation using Selenium and TestNG
 
 Link: https://www.automationexercise.com/test_cases
+Link: https://www.thetestingsquad.in/2023/01/selenium-tutorial-free-selenium.html
 
 - [ ] TC_001: Register User
 - [ ] TC_002: Login User with Correct email and password

@@ -13,3 +13,11 @@ These are just guidelines and not rules; they are not mandatory u can still scri
 - Git and Github is the version control management
 - CI tool Jenkins is used to run the scripts
 - Extent Spark Report test result are generated after each run
+
+
+Why need a BaseClass?
+- CodeReusability
+- Scalability : Easy to maintain
+- Centralized control
+- Foundation for Test execution
+
